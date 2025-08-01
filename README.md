@@ -68,8 +68,8 @@ mini-ecommerce-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mini-ecommerce-app.git
-   cd mini-ecommerce-app
+   git clone https://github.com/PrathameshBhagwat/E-Commerce-Website---RedFlair-Studio
+   cd E-Commerce-Website---RedFlair-Studio
    ```
 
 2. **Install dependencies**
@@ -98,19 +98,9 @@ This creates a `build` folder with optimized production files.
 ### Deploy to Vercel (Recommended)
 
 1. Push your code to GitHub
-2. Connect your GitHub repository to [Vercel](https://vercel.com)
+2. Connect your GitHub repository to [Vercel]
 3. Deploy automatically with zero configuration
 
-### Deploy to Netlify
-
-1. Build the project: `npm run build`
-2. Drag and drop the `build` folder to [Netlify](https://netlify.com)
-
-### Deploy to GitHub Pages
-
-1. Install gh-pages: `npm install --save-dev gh-pages`
-2. Update `package.json` homepage field with your GitHub Pages URL
-3. Deploy: `npm run deploy`
 
 ## 🎯 Key Components
 
@@ -205,7 +195,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For questions or support, please open an issue on GitHub or contact [your-email@example.com](mailto:your-email@example.com).
+For questions or support, please open an issue on GitHub or contact [bhagwatprathamesh2626@gmail.com].
 
 ---
 
